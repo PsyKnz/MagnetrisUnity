@@ -1,7 +1,6 @@
 # Ignores generated Unity files
 Library/
-Assets/
-obj/
+Temp/
 *.csproj
 *.unityproj
 *.sln
